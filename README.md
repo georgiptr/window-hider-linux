@@ -1,5 +1,5 @@
 # window-hider-linux
-Hide or show multiple windows based on partial window title match. This is the Linux version. [The Windows version is here](https://github.com/ggeorgip/window-hider).
+Hide or show multiple windows based on partial window title match. This is the Linux version. [The Windows version is here](https://github.com/georgiptr/window-hider).
 
 ### Removing distractions
 These days multiple apps are fighting for your attention: Skype, WhatsApp, Viber, Messenger, Slack, Hangouts... If you could only mute them while working and once you are ready for a break to look at them again...
